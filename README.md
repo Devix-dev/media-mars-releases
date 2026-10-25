@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media-mars.vercel.app/favicon.svg" width="100" height="100" alt="Media Mars Logo" />
+<img src="https://raw.githubusercontent.com/Devix-dev/media-mars/main/public/app-icon.png" width="100" height="100" alt="Media Mars Logo" />
 
 # Media Mars — Official Desktop Releases 🪐
 ### The High-Performance Media Downloader, Converter & Compressor for Windows 10 & 11
